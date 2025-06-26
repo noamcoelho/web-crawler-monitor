@@ -15,3 +15,11 @@ git clone https://github.com/SEU_USUARIO/web-crawler-monitor.git
 cd web-crawler-monitor
 pip install -r requirements.txt
 python crawler/web_crawler.py
+```
+
+## Requisitos
+
+- Python 3.8+
+- requests
+- beautifulsoup4
+- apscheduler
